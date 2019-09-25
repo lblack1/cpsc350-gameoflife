@@ -16,4 +16,4 @@ A program for running a Game of Life with one of three types of grids (classic, 
 
 4. Description of Program - Prompts the user for how to build the initial grid, what game mode to run in, and what output mode to use (then asks for name of the output file if applicable). Proceeds to run a game of life according to the settings until it consists only of still lives or blinker oscillators. Continues to run infinitely if there exists an oscillator of period greater than two.
 
-5. After compiling - ./YOUROUTFILE.out [TEXT FILE TO READ]
+5. To run, execute  $ make
